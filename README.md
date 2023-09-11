@@ -10,8 +10,7 @@ There are examples in different languages of binary tree implementation.
 ---
 
 Each implementation contains next functions or methods depends on language paradigm:
-
-- **Depth first values** - explore the nodes of the tree, starting from a root node, and it returns a list of node values in the order they were visited
+- **Depth first values** - explore the nodes of the tree, starting from a root node, and it returns a list of node values in the order they were visited.
 - **Breath first Values** - visiting all root immediate children before moving on to their children, and so on.
 - **Tree Includes** - checks whether a given value exists within a binary tree.
 - **Tree Sum** - The "Tree Sum" function calculates the sum of all the values stored in the nodes of a binary tree.
@@ -21,9 +20,9 @@ Each implementation contains next functions or methods depends on language parad
 ---
 
 ### Examples
-
-Each example has *run.sh* file which can be run by `sh run.sh` command. Files structure and names are the same for every language, difference in implementation only.
+Each example has **run.sh** file which can be run by `sh run.sh` command. Files structure and names are the same for every language, difference in implementation only.
 
 ### Contributing and Issues
-
-Feel free fork the project or add new ideas. 
+- If you see a bug in the code please add new issue [bugs](https://github.com/pashaproton/binary-tree/issues/new) with label **bug**.
+- Do not hesisate [add new ideas](https://github.com/pashaproton/binary-tree/issues/new) with label **proposal**.
+- Feel free fork the project or add new ideas.
