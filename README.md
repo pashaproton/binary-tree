@@ -22,4 +22,8 @@ Each implementation contains next functions or methods depends on language parad
 
 ### Examples
 
-Each example
+Each example has *run.sh* file which can be run by `sh run.sh` command. Files structure and names are the same for every language, difference in implementation only.
+
+### Contributing and Issues
+
+Feel free fork the project or add new ideas. 
