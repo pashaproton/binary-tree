@@ -4,6 +4,7 @@ There are examples in different languages of binary tree implementation.
 
 [C](./examples/C/binary-tree.c)
 | [C++](./examples/C++/binary-tree.cpp)
+| [PHP](./examples/PHP/binary-tree.php)
 | [Python](./examples/Python/binary-tree.py)
 | [JavaScript](./examples/JavaScript/binary-tree.js)
 
